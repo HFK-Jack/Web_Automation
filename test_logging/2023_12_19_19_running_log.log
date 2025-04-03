@@ -1,0 +1,48 @@
+[时间:2023-12-19 19:19:36,445][线程:MainThread:2588][路径:allure_report_handler.py:37][级别:INFO:20][描述信息:正在收集所有Case的测试结果：生成Allure报告。]
+[时间:2023-12-19 19:19:39,590][线程:MainThread:45096][路径:conftest.py:23][级别:INFO:20][描述信息:获取chrome浏览器webdriver]
+[时间:2023-12-19 19:19:45,302][线程:MainThread:45096][路径:input_action.py:34][级别:INFO:20][描述信息:输入18822882288]
+[时间:2023-12-19 19:19:45,444][线程:MainThread:45096][路径:input_action.py:34][级别:INFO:20][描述信息:输入Aa111111!]
+[时间:2023-12-19 19:19:46,060][线程:MainThread:45096][路径:mouse_action.py:31][级别:ERROR:40][描述信息:点击操作失败,失败原因：Message: element not interactable
+  (Session info: chrome=120.0.6099.71)
+Stacktrace:
+	GetHandleVerifier [0x00007FF68B552142+3514994]
+	(No symbol) [0x00007FF68B170CE2]
+	(No symbol) [0x00007FF68B0174C3]
+	(No symbol) [0x00007FF68B062D29]
+	(No symbol) [0x00007FF68B056A0F]
+	(No symbol) [0x00007FF68B085FEA]
+	(No symbol) [0x00007FF68B0563B6]
+	(No symbol) [0x00007FF68B086490]
+	(No symbol) [0x00007FF68B0A28F6]
+	(No symbol) [0x00007FF68B085D93]
+	(No symbol) [0x00007FF68B054BDC]
+	(No symbol) [0x00007FF68B055C64]
+	GetHandleVerifier [0x00007FF68B57E16B+3695259]
+	GetHandleVerifier [0x00007FF68B5D6737+4057191]
+	GetHandleVerifier [0x00007FF68B5CE4E3+4023827]
+	GetHandleVerifier [0x00007FF68B2A04F9+689705]
+	(No symbol) [0x00007FF68B17C048]
+	(No symbol) [0x00007FF68B178044]
+	(No symbol) [0x00007FF68B1781C9]
+	(No symbol) [0x00007FF68B1688C4]
+	BaseThreadInitThunk [0x00007FFBBE2D257D+29]
+	RtlUserThreadStart [0x00007FFBBE5AAA58+40]
+]
+[时间:2023-12-19 19:19:46,574][线程:MainThread:45096][路径:input_action.py:34][级别:INFO:20][描述信息:输入18822882288]
+[时间:2023-12-19 19:19:46,670][线程:MainThread:45096][路径:input_action.py:34][级别:INFO:20][描述信息:输入Aa111111!]
+[时间:2023-12-19 19:19:54,081][线程:MainThread:45096][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk-自动化专用医生]
+[时间:2023-12-19 19:20:11,742][线程:MainThread:45096][路径:conftest.py:28][级别:INFO:20][描述信息:自动化测试结束]
+[时间:2023-12-19 19:20:13,198][线程:MainThread:45096][路径:weixin.py:112][级别:INFO:20][描述信息:测试结果成功发送至微信！]
+[时间:2023-12-19 19:20:13,200][线程:MainThread:45096][路径:conftest.py:76][级别:INFO:20][描述信息:测试结果！	
+【自动化测试报告】	
+测试环境：https://show.everjiankang.cn/web/#/login	
+用例总数：1	
+执行用例总数：1	
+执行成功数：1 	
+执行失败数：0 	
+执行ERROR数：0 	
+执行SKIP数：0 	
+执行成功数：100 %	
+执行时长：33.98秒 	
+执行时间：2023-12-19 19:20:13 	
+]

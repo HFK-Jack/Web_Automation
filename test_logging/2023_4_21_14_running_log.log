@@ -1,0 +1,27 @@
+[时间:2023-04-21 14:23:12,206][线程:MainThread:16152][路径:allure_report_handler.py:37][级别:INFO:20][描述信息:正在收集所有Case的测试结果：生成Allure报告。]
+[时间:2023-04-21 14:23:22,143][线程:MainThread:20012][路径:conftest.py:26][级别:INFO:20][描述信息:获取chrome浏览器webdriver]
+[时间:2023-04-21 14:23:27,732][线程:MainThread:20012][路径:input_action.py:34][级别:INFO:20][描述信息:输入18822882288]
+[时间:2023-04-21 14:23:27,898][线程:MainThread:20012][路径:input_action.py:34][级别:INFO:20][描述信息:输入Aa111111!]
+[时间:2023-04-21 14:23:34,848][线程:MainThread:20012][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk-自动化专用医生]
+[时间:2023-04-21 14:23:40,831][线程:MainThread:20012][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk患者-2023-04-21-1423]
+[时间:2023-04-21 14:23:41,107][线程:MainThread:20012][路径:input_action.py:38][级别:INFO:20][描述信息:输入340811194106266851]
+[时间:2023-04-21 14:23:41,255][线程:MainThread:20012][路径:input_action.py:38][级别:INFO:20][描述信息:输入13687083555]
+[时间:2023-04-21 14:23:41,424][线程:MainThread:20012][路径:input_action.py:38][级别:INFO:20][描述信息:输入图文问诊]
+[时间:2023-04-21 14:23:41,650][线程:MainThread:20012][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk-自动化专用医生]
+[时间:2023-04-21 14:23:41,944][线程:MainThread:20012][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk-病情描述]
+[时间:2023-04-21 14:23:42,636][线程:MainThread:20012][路径:input_action.py:56][级别:INFO:20][描述信息:输入C:\Users\Jack-\Desktop\Web_Automation\test_image\patient_image\case_history.png]
+[时间:2023-04-21 14:23:46,268][线程:MainThread:20012][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk患者-2023-04-21-1423]
+[时间:2023-04-21 14:23:56,648][线程:MainThread:20012][路径:conftest.py:31][级别:INFO:20][描述信息:自动化测试结束]
+[时间:2023-04-21 14:23:57,642][线程:MainThread:20012][路径:weixin.py:112][级别:INFO:20][描述信息:测试结果成功发送至微信！]
+[时间:2023-04-21 14:23:57,642][线程:MainThread:20012][路径:conftest.py:77][级别:INFO:20][描述信息:测试结果！	
+【自动化测试报告】	
+测试环境：https://show.everjiankang.cn/web/#/login	
+用例总数：1	
+执行用例总数：1	
+执行成功数：1 	
+执行失败数：0 	
+执行ERROR数：0 	
+执行SKIP数：0 	
+执行成功数：100 %	
+执行时长：37.86秒 	
+]

@@ -1,0 +1,56 @@
+[时间:2023-04-27 18:12:47,274][线程:MainThread:15492][路径:conftest.py:26][级别:INFO:20][描述信息:获取chrome浏览器webdriver]
+[时间:2023-04-27 18:12:48,311][线程:MainThread:15492][路径:element_handler.py:52][级别:ERROR:40][描述信息:查找元素“('xpath', '//*[@id="app"]/main/div[1]/div/div[2]/div[2]/div[3]/form/div[1]/div/span/div[2]/input')”失败，异常原因是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00FDDF13+2219795]
+	Ordinal0 [0x00F72841+1779777]
+	Ordinal0 [0x00E8423D+803389]
+	Ordinal0 [0x00E6C70A+706314]
+	Ordinal0 [0x00ED1502+1119490]
+	Ordinal0 [0x00EDE8FA+1173754]
+	Ordinal0 [0x00ECE616+1107478]
+	Ordinal0 [0x00EA7F89+950153]
+	Ordinal0 [0x00EA8F56+954198]
+	GetHandleVerifier [0x012D2CB2+3040210]
+	GetHandleVerifier [0x012C2BB4+2974420]
+	GetHandleVerifier [0x01076A0A+565546]
+	GetHandleVerifier [0x01075680+560544]
+	Ordinal0 [0x00F79A5C+1808988]
+	Ordinal0 [0x00F7E3A8+1827752]
+	Ordinal0 [0x00F7E495+1827989]
+	Ordinal0 [0x00F880A4+1867940]
+	BaseThreadInitThunk [0x76D80099+25]
+	RtlGetAppContainerNamedObjectPath [0x77DC7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77DC7B3E+238]
+]
+[时间:2023-04-27 18:12:50,951][线程:MainThread:15492][路径:conftest.py:31][级别:INFO:20][描述信息:自动化测试结束]
+[时间:2023-04-27 18:12:52,537][线程:MainThread:15492][路径:conftest.py:26][级别:INFO:20][描述信息:获取chrome浏览器webdriver]
+[时间:2023-04-27 18:12:53,400][线程:MainThread:15492][路径:element_handler.py:52][级别:ERROR:40][描述信息:查找元素“('xpath', '//*[@id="app"]/main/div[1]/div/div[2]/div[2]/div[3]/form/div[1]/div/span/div[2]/input')”失败，异常原因是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00FDDF13+2219795]
+	Ordinal0 [0x00F72841+1779777]
+	Ordinal0 [0x00E8423D+803389]
+	Ordinal0 [0x00E6C70A+706314]
+	Ordinal0 [0x00ED1502+1119490]
+	Ordinal0 [0x00EDE8FA+1173754]
+	Ordinal0 [0x00ECE616+1107478]
+	Ordinal0 [0x00EA7F89+950153]
+	Ordinal0 [0x00EA8F56+954198]
+	GetHandleVerifier [0x012D2CB2+3040210]
+	GetHandleVerifier [0x012C2BB4+2974420]
+	GetHandleVerifier [0x01076A0A+565546]
+	GetHandleVerifier [0x01075680+560544]
+	Ordinal0 [0x00F79A5C+1808988]
+	Ordinal0 [0x00F7E3A8+1827752]
+	Ordinal0 [0x00F7E495+1827989]
+	Ordinal0 [0x00F880A4+1867940]
+	BaseThreadInitThunk [0x76D80099+25]
+	RtlGetAppContainerNamedObjectPath [0x77DC7B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77DC7B3E+238]
+]
+[时间:2023-04-27 18:12:59,668][线程:MainThread:15492][路径:conftest.py:31][级别:INFO:20][描述信息:自动化测试结束]

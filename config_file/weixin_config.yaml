@@ -1,0 +1,14 @@
+# -----------------------------------微信配置----------------------------------
+
+
+# 微信公众号 appID：wxcf354e0764bfe9fa
+app_id: "wxcf354e0764bfe9fa"
+
+# 微信公众号密钥：98877fc9f862aed9d90a380815188ed6
+app_secret: "98877fc9f862aed9d90a380815188ed6"
+
+# 消息接收者，微信号(测试号用户列表里的微信号)
+to_user: "oovY562VNmgkeREOE3TbtTI5K2bs"
+
+# 消息模板id
+template_id: "37mrlL3fSErFmU4599nTi-Oby6rM2BogLP1-OsgDxDY"

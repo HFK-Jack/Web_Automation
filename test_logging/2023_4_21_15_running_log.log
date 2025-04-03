@@ -1,0 +1,28 @@
+[时间:2023-04-21 15:38:58,103][线程:MainThread:3628][路径:allure_report_handler.py:37][级别:INFO:20][描述信息:正在收集所有Case的测试结果：生成Allure报告。]
+[时间:2023-04-21 15:39:01,605][线程:MainThread:17356][路径:allure_report_handler.py:37][级别:INFO:20][描述信息:正在收集所有Case的测试结果：生成Allure报告。]
+[时间:2023-04-21 15:39:04,659][线程:MainThread:12172][路径:conftest.py:26][级别:INFO:20][描述信息:获取chrome浏览器webdriver]
+[时间:2023-04-21 15:39:11,135][线程:MainThread:12172][路径:input_action.py:34][级别:INFO:20][描述信息:输入18822882288]
+[时间:2023-04-21 15:39:11,315][线程:MainThread:12172][路径:input_action.py:34][级别:INFO:20][描述信息:输入Aa111111!]
+[时间:2023-04-21 15:39:17,634][线程:MainThread:12172][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk-自动化专用医生]
+[时间:2023-04-21 15:39:23,590][线程:MainThread:12172][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk患者-2023-04-21-1539]
+[时间:2023-04-21 15:39:23,810][线程:MainThread:12172][路径:input_action.py:38][级别:INFO:20][描述信息:输入513422196508109227]
+[时间:2023-04-21 15:39:23,954][线程:MainThread:12172][路径:input_action.py:38][级别:INFO:20][描述信息:输入15631159813]
+[时间:2023-04-21 15:39:24,121][线程:MainThread:12172][路径:input_action.py:38][级别:INFO:20][描述信息:输入图文问诊]
+[时间:2023-04-21 15:39:24,323][线程:MainThread:12172][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk-自动化专用医生]
+[时间:2023-04-21 15:39:24,601][线程:MainThread:12172][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk-病情描述]
+[时间:2023-04-21 15:39:25,311][线程:MainThread:12172][路径:input_action.py:56][级别:INFO:20][描述信息:输入C:\Users\Jack-\Desktop\Web_Automation\test_image\patient_image\case_history.png]
+[时间:2023-04-21 15:39:28,509][线程:MainThread:12172][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk患者-2023-04-21-1539]
+[时间:2023-04-21 15:39:38,848][线程:MainThread:12172][路径:conftest.py:31][级别:INFO:20][描述信息:自动化测试结束]
+[时间:2023-04-21 15:39:39,782][线程:MainThread:12172][路径:weixin.py:112][级别:INFO:20][描述信息:测试结果成功发送至微信！]
+[时间:2023-04-21 15:39:39,782][线程:MainThread:12172][路径:conftest.py:77][级别:INFO:20][描述信息:测试结果！	
+【自动化测试报告】	
+测试环境：https://show.everjiankang.cn/web/#/login	
+用例总数：1	
+执行用例总数：1	
+执行成功数：1 	
+执行失败数：0 	
+执行ERROR数：0 	
+执行SKIP数：0 	
+执行成功数：100 %	
+执行时长：35.92秒 	
+]

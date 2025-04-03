@@ -1,0 +1,20 @@
+# app driver config：软件驱动程序配置
+
+dict_app_driver_config:
+ -
+   devices_info:
+     appPackage: cn.everjiankang.sysdk # 包名
+     appActivity: Activity.MainActivity # 启动名
+     deviceName: df718fc2 # 设备名 df718fc2/18dfc2c6
+     noReset: True # 不重置APP的设置
+     ip: 127.0.0.1 # Appium Server 访问 IP
+     port: 4723 # Appium Server 访问 port
+     platformName: Android # 被测平台
+     platformVersion: '12' # 被测平台系统版本号
+     # unicode_keyboard: True # 允许输入中文需要使用unicode输入法，True为开启，开启报错：待定使用
+     # reset_keybooard: True # 执行完恢复原来输入法
+     newCommandTimeout: 2000 # 设置APP客户端链接的超时时间
+     skipServerInstallation: false #  false为运行代码时安装io.appium.uiautomator2.server；True为运行代码时不安装io.appium.uiautomator2.server，注意：新设备需要先安装io.appium.uiautomator2.server否则新设备无法正常启动server。
+     autoGrantPermissions: True
+     skipDeviceInitialization: True
+     defaultCommandTimeout: 360

@@ -1,0 +1,66 @@
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.address`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.address` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.automotive`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.automotive` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.bank`.
+DEBUG    faker.factory:factory.py:86 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.barcode`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.barcode` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.color`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.color` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.company`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.company` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.credit_card` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.currency`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.currency` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.date_time`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.date_time` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:106 Provider `faker.providers.emoji` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG    faker.factory:factory.py:106 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.geo`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.geo` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.internet`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.internet` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:106 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.job`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.job` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.lorem`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.lorem` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.misc`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.misc` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.passport`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.passport` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.person`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.person` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.phone_number` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:106 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG    faker.factory:factory.py:106 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG    faker.factory:factory.py:106 Provider `faker.providers.sbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG    faker.factory:factory.py:76 Looking for locale `en_US` in provider `faker.providers.ssn`.
+DEBUG    faker.factory:factory.py:95 Provider `faker.providers.ssn` has been localized to `en_US`.
+DEBUG    faker.factory:factory.py:106 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:72 Selenium Manager binary found at: D:\Python\Python_3_8_8\lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:129 Executing process: D:\Python\Python_3_8_8\lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --debug --output json
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:146 chromedriver not found in PATH
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:146 chrome detected at C:\Program Files\Google\Chrome\Application\chrome.exe
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Running command: wmic datafile where name='C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe' get Version /value
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Output: "\r\r\n\r\r\nVersion=134.0.6998.36\r\r\n\r\r\n\r\r\n\r"
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Detected browser: chrome 134.0.6998.36
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Required driver: chromedriver 134.0.6998.90
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:146 chromedriver 134.0.6998.90 already in the cache
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Driver path: C:\Users\Jack_\.cache\selenium\chromedriver\win64\134.0.6998.90\chromedriver.exe
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:146 Browser path: C:\Program Files\Google\Chrome\Application\chrome.exe
+DEBUG    selenium.webdriver.common.selenium_manager:selenium_manager.py:107 Using driver at: C:\Users\Jack_\.cache\selenium\chromedriver\win64\134.0.6998.90\chromedriver.exe
+DEBUG    selenium.webdriver.common.service:service.py:219 Started executable: `C:\Users\Jack_\.cache\selenium\chromedriver\win64\134.0.6998.90\chromedriver.exe` in a child process with pid: 35996 using 0 to output -3
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:64816/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "browserVersion": null, "goog:chromeOptions": {"extensions": [], "binary": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "args": []}}}}
+DEBUG    urllib3.connectionpool:connectionpool.py:246 Starting new HTTP connection (1): localhost:64816
+DEBUG    urllib3.connectionpool:connectionpool.py:474 http://localhost:64816 "POST /session HTTP/1.1" 200 867
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"134.0.6998.36","chrome":{"chromedriverVersion":"134.0.6998.90 (219ee74681fc640b1ee1af1c99df3729a0ec25a8-refs/branch-heads/6998@{#1900})","userDataDir":"C:\\Windows\\SystemTemp\\scoped_dir35996_1266054160"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64820"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"85adc94ac8470f83903256e0d8660cef"}} | headers=HTTPHeaderDict({'Content-Length': '867', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:313 POST http://localhost:64816/session/85adc94ac8470f83903256e0d8660cef/window/maximize {}
+DEBUG    urllib3.connectionpool:connectionpool.py:474 http://localhost:64816 "POST /session/85adc94ac8470f83903256e0d8660cef/window/maximize HTTP/1.1" 200 52
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:329 Remote response: status=200 | data={"value":{"height":1034,"width":1722,"x":-8,"y":-8}} | headers=HTTPHeaderDict({'Content-Length': '52', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:356 Finished Request
+INFO     public_method.logger_handler:conftest.py:23 获取chrome浏览器webdriver

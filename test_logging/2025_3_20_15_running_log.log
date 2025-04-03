@@ -1,0 +1,3 @@
+[时间:2025-03-20 15:04:11,827][线程:MainThread:33300][路径:conftest.py:23][级别:INFO:20][描述信息:获取chrome浏览器webdriver]
+[时间:2025-03-20 15:04:22,116][线程:MainThread:31016][路径:conftest.py:23][级别:INFO:20][描述信息:获取chrome浏览器webdriver]
+[时间:2025-03-20 15:04:24,257][线程:MainThread:31016][路径:conftest.py:28][级别:INFO:20][描述信息:自动化测试结束]

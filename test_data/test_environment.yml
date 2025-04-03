@@ -1,0 +1,19 @@
+# Time        : 2023/3/11 0:18
+# Coding      : * utf-8 *
+# Author      : < HFK >
+# FileName    : test_environment.py
+# Description :
+
+
+#测试环境地址
+#test_url: 'https://show.everjiankang.cn/web/#/login'
+#test_url: 'https://test2a.everjiankang.cn/web/#/login'
+test_url: 'https://test3myhis.everjiankang.cn/'
+
+
+
+# 用户名
+username: "18866886688"
+
+# 密码
+password: "Aa111111!"

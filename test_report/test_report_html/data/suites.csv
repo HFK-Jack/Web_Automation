@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Apr 02 17:09:36 CST 2025","Wed Apr 02 17:09:36 CST 2025","334","test_case_po","互联网就诊测试","TestBuyInternetMedicalTreatment","","","互联网就诊患者下单测试","互联网就诊测试"

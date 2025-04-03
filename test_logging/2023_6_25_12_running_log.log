@@ -1,0 +1,107 @@
+[时间:2023-06-25 12:15:54,412][线程:MainThread:4100][路径:allure_report_handler.py:37][级别:INFO:20][描述信息:正在收集所有Case的测试结果：生成Allure报告。]
+[时间:2023-06-25 12:16:04,575][线程:MainThread:10972][路径:conftest.py:26][级别:INFO:20][描述信息:获取chrome浏览器webdriver]
+[时间:2023-06-25 12:16:10,359][线程:MainThread:10972][路径:input_action.py:34][级别:INFO:20][描述信息:输入18822882288]
+[时间:2023-06-25 12:16:10,558][线程:MainThread:10972][路径:input_action.py:34][级别:INFO:20][描述信息:输入Aa111111!]
+[时间:2023-06-25 12:16:17,772][线程:MainThread:10972][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk-自动化专用医生]
+[时间:2023-06-25 12:16:38,186][线程:MainThread:10972][路径:element_handler.py:52][级别:ERROR:40][描述信息:查找元素“('xpath', '//*[@id="app"]/main/div[1]/div/div/div/div[1]/form/div[10]/div/button[2]')”失败，异常原因是：Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0032DF13+2219795]
+	Ordinal0 [0x002C2841+1779777]
+	Ordinal0 [0x001D423D+803389]
+	Ordinal0 [0x00203025+995365]
+	Ordinal0 [0x002031EB+995819]
+	Ordinal0 [0x00230F52+1183570]
+	Ordinal0 [0x0021E844+1108036]
+	Ordinal0 [0x0022F192+1175954]
+	Ordinal0 [0x0021E616+1107478]
+	Ordinal0 [0x001F7F89+950153]
+	Ordinal0 [0x001F8F56+954198]
+	GetHandleVerifier [0x00622CB2+3040210]
+	GetHandleVerifier [0x00612BB4+2974420]
+	GetHandleVerifier [0x003C6A0A+565546]
+	GetHandleVerifier [0x003C5680+560544]
+	Ordinal0 [0x002C9A5C+1808988]
+	Ordinal0 [0x002CE3A8+1827752]
+	Ordinal0 [0x002CE495+1827989]
+	Ordinal0 [0x002D80A4+1867940]
+	BaseThreadInitThunk [0x759800C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77067B4E+286]
+	RtlGetAppContainerNamedObjectPath [0x77067B1E+238]
+]
+[时间:2023-06-25 12:16:38,186][线程:MainThread:10972][路径:mouse_action.py:31][级别:ERROR:40][描述信息:点击操作失败,失败原因：Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0032DF13+2219795]
+	Ordinal0 [0x002C2841+1779777]
+	Ordinal0 [0x001D423D+803389]
+	Ordinal0 [0x00203025+995365]
+	Ordinal0 [0x002031EB+995819]
+	Ordinal0 [0x00230F52+1183570]
+	Ordinal0 [0x0021E844+1108036]
+	Ordinal0 [0x0022F192+1175954]
+	Ordinal0 [0x0021E616+1107478]
+	Ordinal0 [0x001F7F89+950153]
+	Ordinal0 [0x001F8F56+954198]
+	GetHandleVerifier [0x00622CB2+3040210]
+	GetHandleVerifier [0x00612BB4+2974420]
+	GetHandleVerifier [0x003C6A0A+565546]
+	GetHandleVerifier [0x003C5680+560544]
+	Ordinal0 [0x002C9A5C+1808988]
+	Ordinal0 [0x002CE3A8+1827752]
+	Ordinal0 [0x002CE495+1827989]
+	Ordinal0 [0x002D80A4+1867940]
+	BaseThreadInitThunk [0x759800C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77067B4E+286]
+	RtlGetAppContainerNamedObjectPath [0x77067B1E+238]
+]
+[时间:2023-06-25 12:16:40,652][线程:MainThread:10972][路径:conftest.py:31][级别:INFO:20][描述信息:自动化测试结束]
+[时间:2023-06-25 12:16:42,173][线程:MainThread:10972][路径:conftest.py:26][级别:INFO:20][描述信息:获取chrome浏览器webdriver]
+[时间:2023-06-25 12:16:52,024][线程:MainThread:10972][路径:input_action.py:34][级别:INFO:20][描述信息:输入18822882288]
+[时间:2023-06-25 12:16:52,234][线程:MainThread:10972][路径:input_action.py:34][级别:INFO:20][描述信息:输入Aa111111!]
+[时间:2023-06-25 12:16:59,328][线程:MainThread:10972][路径:input_action.py:38][级别:INFO:20][描述信息:输入hfk-自动化专用医生]
+[时间:2023-06-25 12:17:04,459][线程:MainThread:10972][路径:mouse_action.py:31][级别:ERROR:40][描述信息:点击操作失败,失败原因：Message: element click intercepted: Element <span data-v-14fb440a="" class="inner">...</span> is not clickable at point (563, 20). Other element would receive the click: <div role="alert" class="el-message el-message--success" style="top: 20px; z-index: 2002;">...</div>
+  (Session info: chrome=105.0.5195.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0032DF13+2219795]
+	Ordinal0 [0x002C2841+1779777]
+	Ordinal0 [0x001D423D+803389]
+	Ordinal0 [0x002099D4+1022420]
+	Ordinal0 [0x002078C4+1013956]
+	Ordinal0 [0x002054AB+1004715]
+	Ordinal0 [0x00204117+999703]
+	Ordinal0 [0x001F9B76+957302]
+	Ordinal0 [0x0021E7FC+1107964]
+	Ordinal0 [0x001F94B4+955572]
+	Ordinal0 [0x0021EA14+1108500]
+	Ordinal0 [0x0022F192+1175954]
+	Ordinal0 [0x0021E616+1107478]
+	Ordinal0 [0x001F7F89+950153]
+	Ordinal0 [0x001F8F56+954198]
+	GetHandleVerifier [0x00622CB2+3040210]
+	GetHandleVerifier [0x00612BB4+2974420]
+	GetHandleVerifier [0x003C6A0A+565546]
+	GetHandleVerifier [0x003C5680+560544]
+	Ordinal0 [0x002C9A5C+1808988]
+	Ordinal0 [0x002CE3A8+1827752]
+	Ordinal0 [0x002CE495+1827989]
+	Ordinal0 [0x002D80A4+1867940]
+	BaseThreadInitThunk [0x759800C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77067B4E+286]
+	RtlGetAppContainerNamedObjectPath [0x77067B1E+238]
+]
+[时间:2023-06-25 12:17:06,678][线程:MainThread:10972][路径:conftest.py:31][级别:INFO:20][描述信息:自动化测试结束]
+[时间:2023-06-25 12:17:07,623][线程:MainThread:10972][路径:weixin.py:112][级别:INFO:20][描述信息:测试结果成功发送至微信！]
+[时间:2023-06-25 12:17:07,623][线程:MainThread:10972][路径:conftest.py:77][级别:INFO:20][描述信息:测试结果！	
+【自动化测试报告】	
+测试环境：https://show.everjiankang.cn/web/#/login	
+用例总数：1	
+执行用例总数：1	
+执行成功数：0 	
+执行失败数：1 	
+执行ERROR数：0 	
+执行SKIP数：0 	
+执行成功数：0 %	
+执行时长：65.74秒 	
+]

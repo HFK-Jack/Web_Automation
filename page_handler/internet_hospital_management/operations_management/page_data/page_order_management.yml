@@ -1,0 +1,141 @@
+# -----------------------------------运营管理-订单管理页----------------------------------
+
+# 互联网医院管理按钮
+internet_hospital_management_button:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div[1]/div[2]/ul[3]/li[3]'
+
+# 返回主页按钮
+everjiankang_home_button:
+  - 'xpath'
+  - '//*[@id="benchnameBox"]/div[1]/i'
+
+# 菜单中: 更多 按钮
+more_button:
+  - 'xpath'
+  - '//*[@id="headerWar"]/div[1]/ul/li[5]/div/a'
+
+# 更多按钮中的：运营管理菜单按钮
+more_operations_management_button:
+  - 'xpath'
+  - '//*[@id="headerWar"]/div[1]/ul/li[5]/span'
+
+# 运营管理菜单按钮
+operations_management_button:
+  - 'xpath'
+  - '//*[@id="headerWar"]/div[1]/ul/li[5]/span'
+
+# 在线问诊设置
+online_inquiry_settings_button:
+  - 'xpath'
+  - '//*[@id="headerWar"]/div[1]/ul/li[1]/span'
+
+# 医生姓名输入框
+find_doctor_name_input:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/form/div[6]/div/div/input'
+
+# 查找医生按钮
+find_doctor_button:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/form/div[7]/div/button'
+
+# 设置按钮
+inquiry_settings_button:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div[1]/div/div[3]/table/tbody/tr/td[12]/div/a[2]/span'
+
+# 保存设置按钮
+save_inquiry_settings:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div[3]/div/div[3]/button[2]'
+
+# 运营管理-订单管理按钮
+order_management_button:
+  - 'xpath'
+  - '//*[@id="navThirdList"]/ul/li[4]/span'
+
+# 运营管理-订单管理：下单按钮
+buy_visit_button:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[1]/form/div[10]/div/button[2]'
+
+# 新建档案按钮
+create_patient_archives_box:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[5]/div/div[2]/div/div[1]/div/div[1]/label[2]/span[1]/span'
+
+# 患者档案-患者姓名输入框
+new_patient_name_input:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[5]/div/div[2]/div/div[1]/div/form/div/div[1]/div/div/div/input'
+
+# 患者档案-患者身份证输入框
+patient_identity_card_input:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[5]/div/div[2]/div/div[1]/div/form/div/div[2]/div/div/div/input'
+
+# 患者档案-患者手机号输入框
+patient_phone_input:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[5]/div/div[2]/div/div[1]/div/form/div/div[5]/div/div/div/input'
+  -
+# 保存患者档案按钮
+save_patient_archives_button:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[5]/div/div[2]/div/div[1]/div/form/div/div[6]/div/div/button'
+
+# 就诊类型选择框
+internet_medical_treatment_type_input:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[5]/div/div[2]/div/div[2]/div/form/div/div[1]/div/div/div/div[1]/input'
+
+# 就诊类型选择框
+internet_medical_treatment_type_first_input:
+  - 'xpath'
+  - '/html/body/div[5]/div[1]/div/div[1]/ul/li[1]'
+
+# 医生搜索框
+doctor_name_input:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[5]/div/div[2]/div/div[2]/div/form/div/div[4]/div/div/div/div/input'
+
+# 搜索医生选择第一个
+doctor_name_first_input:
+  - 'xpath'
+  - '/Html/body/div[6]/div[1]/div/div[1]/ul/li[1]'
+
+# 病情描述输入框
+illness_description_input:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[5]/div/div[2]/div/div[2]/div/form/div/div[9]/div/div/div[1]/textarea'
+
+# 病历/诊断照片添加框
+upload_case_history_button:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[5]/div/div[2]/div/div[2]/div/form/div/div[10]/div/div/div/span/div[1]/div/input'
+
+# 保存患者购买的就诊
+save_buy_visit_button:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[5]/div/div[3]/div/button[2]/span'
+
+# 查询条件-患者名称输入框
+find_patient_name_input:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[1]/form/div[1]/div/div/input'
+
+# 查询患者订单按钮
+find_patient_order_button:
+  - 'xpath'
+  - '//*[@id="app"]/main/div[1]/div/div/div/div[1]/form/div[9]/div/button'
+
+# 填充现金支付金额
+cash_payment_fill_sum_button:
+  - 'xpath'
+  - '//*[@id="workbenchContent"]/div[1]/div[1]/div[1]/div[2]/button/span'
+
+# 支付保存按钮
+save_payment_sum_button:
+  - 'xpath'
+  - '//*[@id="workbenchContent"]/div[1]/div[2]/div[2]/div/button/span'

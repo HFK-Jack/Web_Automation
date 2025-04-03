@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95e4f4cc-487f-47a2-853a-31748d633731" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FTJVKLtr8xsTozgHwtkPAKC35l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Jack_/Desktop/Web_Automation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Web_Automation" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Web_Automation" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jack-\Desktop\Web_Automation\test_image\expect_image" />
+      <recent name="C:\Users\Jack-\Desktop\Web_Automation\assert_method" />
+      <recent name="C:\Users\Jack-\Desktop\Web_Automation\test_case_po" />
+      <recent name="C:\Users\Jack-\Desktop\Web_Automation\page_handler\login\data_driver\test_data" />
+      <recent name="C:\Users\Jack-\Desktop\Web_Automation\page_handler\login\data_driver\page_data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jack_\Desktop\Web_Automation\public_method" />
+      <recent name="C:\Users\Jack-\Desktop\Web_Automation\test_image\patient_image" />
+      <recent name="C:\Users\Jack-\Desktop\Web_Automation\test_image" />
+      <recent name="C:\Users\Jack-\Desktop\Web_Automation\page_handler\login" />
+      <recent name="C:\Users\Jack-\Desktop\Web_Automation\page_handler\internet_hospital_management\operations_management" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.running_test (1)">
+    <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/driver_handler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/driver_handler/111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="222" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_data/222.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="auto_input_Edge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_data/auto_input_Edge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="running_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/running_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in C:/Users/Jack_/Desktop/Web_Automation/test_data/222.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Web_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_data/222.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.running_test (1)" />
+        <item itemvalue="Python tests.pytest in C:/Users/Jack_/Desktop/Web_Automation/test_data/222.py" />
+        <item itemvalue="Python.222" />
+        <item itemvalue="Python.auto_input_Edge" />
+        <item itemvalue="Python.111" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Jack_\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95e4f4cc-487f-47a2-853a-31748d633731" name="Changes" comment="" />
+      <created>1664510163005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664510163005</updated>
+      <workItem from="1664510164157" duration="399000" />
+      <workItem from="1664510593820" duration="310000" />
+      <workItem from="1664518998542" duration="2398000" />
+      <workItem from="1664532859515" duration="13000" />
+      <workItem from="1665198986005" duration="1955000" />
+      <workItem from="1665201650098" duration="13657000" />
+      <workItem from="1665330798324" duration="3778000" />
+      <workItem from="1665367308211" duration="919000" />
+      <workItem from="1665378893713" duration="299000" />
+      <workItem from="1665379500888" duration="589000" />
+      <workItem from="1665385454815" duration="666000" />
+      <workItem from="1665453122424" duration="6667000" />
+      <workItem from="1665498127435" duration="7421000" />
+      <workItem from="1665540601326" duration="560000" />
+      <workItem from="1665564692128" duration="1341000" />
+      <workItem from="1665568642307" duration="3858000" />
+      <workItem from="1665588647889" duration="3226000" />
+      <workItem from="1665592671073" duration="81000" />
+      <workItem from="1665627546713" duration="5606000" />
+      <workItem from="1665664734190" duration="4128000" />
+      <workItem from="1665740816034" duration="1611000" />
+      <workItem from="1666175911595" duration="7319000" />
+      <workItem from="1667009647785" duration="54000" />
+      <workItem from="1667058709497" duration="156000" />
+      <workItem from="1667295703028" duration="30153000" />
+      <workItem from="1667447172978" duration="5446000" />
+      <workItem from="1667461688861" duration="592000" />
+      <workItem from="1667462483828" duration="1093000" />
+      <workItem from="1667463621327" duration="1841000" />
+      <workItem from="1667465659796" duration="361000" />
+      <workItem from="1667466779756" duration="1098000" />
+      <workItem from="1667467953939" duration="1456000" />
+      <workItem from="1667470538675" duration="674000" />
+      <workItem from="1667472680639" duration="877000" />
+      <workItem from="1667474932159" duration="893000" />
+      <workItem from="1667795320792" duration="17940000" />
+      <workItem from="1668501420511" duration="753000" />
+      <workItem from="1668503028124" duration="5935000" />
+      <workItem from="1668569767969" duration="714000" />
+      <workItem from="1668570564058" duration="2946000" />
+      <workItem from="1668607343311" duration="394000" />
+      <workItem from="1668608444580" duration="1102000" />
+      <workItem from="1668771684395" duration="4328000" />
+      <workItem from="1670407732112" duration="11000" />
+      <workItem from="1670939740948" duration="644000" />
+      <workItem from="1671420612011" duration="1733000" />
+      <workItem from="1672022935477" duration="3473000" />
+      <workItem from="1672028173555" duration="3390000" />
+      <workItem from="1672039995620" duration="445000" />
+      <workItem from="1672040611973" duration="2575000" />
+      <workItem from="1672046192621" duration="1250000" />
+      <workItem from="1672048407634" duration="1500000" />
+      <workItem from="1672050321590" duration="3134000" />
+      <workItem from="1672053687510" duration="531000" />
+      <workItem from="1672729156779" duration="20405000" />
+      <workItem from="1673251638581" duration="3879000" />
+      <workItem from="1676629525728" duration="10000" />
+      <workItem from="1676631429859" duration="1599000" />
+      <workItem from="1676989964759" duration="195000" />
+      <workItem from="1676990182481" duration="4797000" />
+      <workItem from="1677037119469" duration="8323000" />
+      <workItem from="1677051642353" duration="6735000" />
+      <workItem from="1677134489850" duration="173000" />
+      <workItem from="1677134676326" duration="67000" />
+      <workItem from="1677134762182" duration="25000" />
+      <workItem from="1677134800965" duration="10758000" />
+      <workItem from="1677212560195" duration="15861000" />
+      <workItem from="1677339545015" duration="24365000" />
+      <workItem from="1677494016750" duration="7078000" />
+      <workItem from="1677552376939" duration="6204000" />
+      <workItem from="1677580918343" duration="5369000" />
+      <workItem from="1677642125827" duration="6762000" />
+      <workItem from="1677766599816" duration="11976000" />
+      <workItem from="1678019735756" duration="13738000" />
+      <workItem from="1678202974063" duration="4196000" />
+      <workItem from="1678233699990" duration="2739000" />
+      <workItem from="1678284522131" duration="8796000" />
+      <workItem from="1678371762427" duration="4763000" />
+      <workItem from="1678462035498" duration="7322000" />
+      <workItem from="1678721903643" duration="1207000" />
+      <workItem from="1679127992319" duration="1196000" />
+      <workItem from="1680502671934" duration="3404000" />
+      <workItem from="1680528980955" duration="1404000" />
+      <workItem from="1680778807848" duration="29000" />
+      <workItem from="1681545126737" duration="1050000" />
+      <workItem from="1682058177451" duration="2649000" />
+      <workItem from="1682129824374" duration="21619000" />
+      <workItem from="1682665135048" duration="27000" />
+      <workItem from="1682670240723" duration="839000" />
+      <workItem from="1682671769533" duration="632000" />
+      <workItem from="1683338949117" duration="7391000" />
+      <workItem from="1683379919787" duration="1191000" />
+      <workItem from="1685522850003" duration="26000" />
+      <workItem from="1685522906369" duration="10000" />
+      <workItem from="1685523494848" duration="2486000" />
+      <workItem from="1687666547737" duration="137000" />
+      <workItem from="1689321039263" duration="1251000" />
+      <workItem from="1700745690357" duration="173000" />
+      <workItem from="1700747492802" duration="168000" />
+      <workItem from="1700799430077" duration="230000" />
+      <workItem from="1700799681068" duration="378000" />
+      <workItem from="1700800201096" duration="208000" />
+      <workItem from="1700800540808" duration="54000" />
+      <workItem from="1700821746204" duration="866000" />
+      <workItem from="1700822638351" duration="78000" />
+      <workItem from="1700822729382" duration="2950000" />
+      <workItem from="1701934126328" duration="1245000" />
+      <workItem from="1702634483144" duration="919000" />
+      <workItem from="1702866556337" duration="786000" />
+      <workItem from="1702982089992" duration="2944000" />
+      <workItem from="1703045596815" duration="1012000" />
+      <workItem from="1703068899621" duration="571000" />
+      <workItem from="1703071581566" duration="189000" />
+      <workItem from="1703153490077" duration="13000" />
+      <workItem from="1703153949492" duration="30000" />
+      <workItem from="1709393866431" duration="15529000" />
+      <workItem from="1709533194309" duration="24469000" />
+      <workItem from="1709777130950" duration="31158000" />
+      <workItem from="1710262710057" duration="8336000" />
+      <workItem from="1710426065139" duration="18402000" />
+      <workItem from="1710760901190" duration="8580000" />
+      <workItem from="1710901562783" duration="256000" />
+      <workItem from="1710901829913" duration="5166000" />
+      <workItem from="1710941454338" duration="2054000" />
+      <workItem from="1710987966299" duration="511000" />
+      <workItem from="1710988490006" duration="14427000" />
+      <workItem from="1711018015882" duration="5266000" />
+      <workItem from="1711110821482" duration="15779000" />
+      <workItem from="1711606406749" duration="8848000" />
+      <workItem from="1711758946672" duration="320000" />
+      <workItem from="1711759549145" duration="16264000" />
+      <workItem from="1712125635241" duration="2146000" />
+      <workItem from="1714024424741" duration="662000" />
+      <workItem from="1715422395984" duration="1907000" />
+      <workItem from="1715579909843" duration="600000" />
+      <workItem from="1715673903080" duration="7491000" />
+      <workItem from="1715768201507" duration="600000" />
+      <workItem from="1715936972006" duration="703000" />
+      <workItem from="1716429260360" duration="4139000" />
+      <workItem from="1719483516178" duration="602000" />
+      <workItem from="1720168044638" duration="614000" />
+      <workItem from="1721205657781" duration="9000" />
+      <workItem from="1729133827488" duration="17000" />
+      <workItem from="1740121149023" duration="4000" />
+      <workItem from="1742005847526" duration="7077000" />
+      <workItem from="1742606566566" duration="2944000" />
+      <workItem from="1742873571930" duration="3389000" />
+      <workItem from="1742912607602" duration="22721000" />
+    </task>
+    <task id="LOCAL-00001" summary="断言调整">
+      <created>1682323935730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682323935730</updated>
+    </task>
+    <task id="LOCAL-00002" summary="断言调整">
+      <created>1743349935553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743349935553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1743351138858</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743351138858</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1743352103162</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743352103162</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first commit">
+      <created>1743431182649</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743431182649</updated>
+    </task>
+    <task id="LOCAL-00006" summary="删除多余文件">
+      <created>1743674876127</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743674876127</updated>
+    </task>
+    <task id="LOCAL-00007" summary="删除多余文件">
+      <created>1743675210280</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743675210280</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first commit">
+      <created>1743675443730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743675443730</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first commit">
+      <created>1743675588513</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743675588513</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="断言调整" />
+    <MESSAGE value="删除多余文件" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Web_Automation$running_test__1_.coverage" NAME="running_test (1) Coverage Results" MODIFIED="1743584967787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web_Automation$project_path.coverage" NAME="project_path Coverage Results" MODIFIED="1677341770950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public_method/project_function" />
+    <SUITE FILE_PATH="coverage/Web_Automation$pytest_for_test_login_TestLogin_test_002.coverage" NAME="pytest for test_login.TestLogin.test_002 Coverage Results" MODIFIED="1667445294223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_po" />
+    <SUITE FILE_PATH="coverage/Web_Automation$pytest_for_test_buy_internet_medical_treatment_TestBuyInternetMedicalTreatment_test_buy_internet_medical_treatment.coverage" NAME="pytest for test_buy_internet_medical_treatment.TestBuyInternetMedicalTreatment.test_buy_internet_medical_treatment Coverage Results" MODIFIED="1683357327365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_po" />
+    <SUITE FILE_PATH="coverage/Web_Automation$111.coverage" NAME="111 Coverage Results" MODIFIED="1702984762588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/driver_handler" />
+    <SUITE FILE_PATH="coverage/Web_Automation$222.coverage" NAME="222 Coverage Results" MODIFIED="1716451230074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_data" />
+    <SUITE FILE_PATH="coverage/Web_Automation$running_test_case.coverage" NAME="running_test_case Coverage Results" MODIFIED="1672054016954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Web_Automation$pytest_for_test_login_TestLogin_test_001.coverage" NAME="pytest for test_login.TestLogin.test_001 Coverage Results" MODIFIED="1667445369632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_po" />
+    <SUITE FILE_PATH="coverage/Web_Automation$1111__1_.coverage" NAME="1111 (1) Coverage Results" MODIFIED="1678376717790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_po" />
+    <SUITE FILE_PATH="coverage/Web_Automation$auto_input_Edge.coverage" NAME="auto_input_Edge Coverage Results" MODIFIED="1712152509714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_data" />
+    <SUITE FILE_PATH="coverage/Web_Automation$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1667466794090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_po" />
+    <SUITE FILE_PATH="coverage/Web_Automation$pytest_for_test_login_TestLogin.coverage" NAME="pytest for test_login.TestLogin Coverage Results" MODIFIED="1667466838703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_po" />
+    <SUITE FILE_PATH="coverage/Web_Automation$pytest_for_test_login_TestLogin_test_open_url.coverage" NAME="pytest for test_login.TestLogin.test_open_url Coverage Results" MODIFIED="1667463917140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case_po" />
+    <SUITE FILE_PATH="coverage/Web_Automation$data_generator.coverage" NAME="data_generator Coverage Results" MODIFIED="1665627853679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public_method/test_function" />
+    <SUITE FILE_PATH="coverage/Web_Automation$pytest_in_222_py.coverage" NAME="pytest in 222.py Coverage Results" MODIFIED="1742454259994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_data" />
+    <SUITE FILE_PATH="coverage/Web_Automation$weixin.coverage" NAME="weixin Coverage Results" MODIFIED="1678318893829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/send_notification" />
+    <SUITE FILE_PATH="coverage/Web_Automation$run_mode.coverage" NAME="run_mode Coverage Results" MODIFIED="1665506369734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function_area" />
+    <SUITE FILE_PATH="coverage/Web_Automation$1111.coverage" NAME="1111 Coverage Results" MODIFIED="1677513228003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_image/expect_image" />
+    <SUITE FILE_PATH="coverage/Web_Automation$yaml_handler.coverage" NAME="yaml_handler Coverage Results" MODIFIED="1672740938962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public_method/project_function" />
+    <SUITE FILE_PATH="coverage/Web_Automation$Run.coverage" NAME="Run Coverage Results" MODIFIED="1665201752709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

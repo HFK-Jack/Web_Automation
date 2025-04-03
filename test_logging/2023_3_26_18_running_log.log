@@ -1,0 +1,28 @@
+[时间:2023-03-26 18:29:30,710][线程:MainThread:17376][路径:allure_report_handler.py:37][级别:INFO:20][描述信息:正在收集所有Case的测试结果：生成Allure报告。]
+[时间:2023-03-26 18:29:38,655][线程:MainThread:16480][路径:conftest.py:26][级别:INFO:20][描述信息:获取chrome浏览器webdriver]
+[时间:2023-03-26 18:29:40,717][线程:MainThread:16480][路径:element_handler.py:52][级别:ERROR:40][描述信息:查找元素“('xpath', '//*[@id="app"]/main/div[1]/div/div[2]/div[2]/div[3]/form/div[1]/div/span/div[2]/input')”失败，异常原因是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004FDF13+2219795]
+	Ordinal0 [0x00492841+1779777]
+	Ordinal0 [0x003A423D+803389]
+	Ordinal0 [0x0038C70A+706314]
+	Ordinal0 [0x003F1502+1119490]
+	Ordinal0 [0x003FE8FA+1173754]
+	Ordinal0 [0x003EE616+1107478]
+	Ordinal0 [0x003C7F89+950153]
+	Ordinal0 [0x003C8F56+954198]
+	GetHandleVerifier [0x007F2CB2+3040210]
+	GetHandleVerifier [0x007E2BB4+2974420]
+	GetHandleVerifier [0x00596A0A+565546]
+	GetHandleVerifier [0x00595680+560544]
+	Ordinal0 [0x00499A5C+1808988]
+	Ordinal0 [0x0049E3A8+1827752]
+	Ordinal0 [0x0049E495+1827989]
+	Ordinal0 [0x004A80A4+1867940]
+	BaseThreadInitThunk [0x75F100F9+25]
+	RtlGetAppContainerNamedObjectPath [0x775B7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x775B7B8E+238]
+]

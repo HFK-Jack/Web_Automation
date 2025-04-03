@@ -1,0 +1,48 @@
+
+#用户名
+username_input:
+  - 'Xpath'
+  - '//*[@id="app"]/main/div[1]/div/div[2]/div[2]/div[3]/form/div[1]/div/span/div[2]/input'
+
+#密码
+password_input:
+  - 'Xpath'
+  - '//*[@id="app"]/main/div/div/div[2]/div[2]/div[3]/form/div[2]/div/span/div[2]/input'
+
+#登录按钮
+submit_button:
+  - 'Xpath'
+  - '//*[@id="app"]/main/div[1]/div/div[2]/div[2]/div[3]/form/div[4]/div/button'
+
+org_input:
+  - 'Xpath'
+  - '/Html/body/div[2]/div[1]/div[1]/div/input'
+
+org_loc:
+  - 'Xpath'
+  - '/Html/body/div[2]/div[1]/div[2]/div/div[1]/div[2]/div[3]/div[1]/div/span[1]'
+
+#测试环境地址
+test_url: 'https://test2a.everjiankang.cn/web/#/login'
+
+# show环境
+show_everjiankang: 'https://show.everjiankang.cn/web/#/login'
+
+# 用户名
+username: "18866886688"
+
+# 密码
+password: "Aa111111!"
+
+# 租户pt002
+tenant_pt002_button:
+  - 'Xpath'
+  - '//*[text()="pt002"]'
+
+# 租户UI自动化机构
+tenant_ui_automation_button:
+  - 'Xpath'
+  - '//*[text()="UI自动化机构"]'
+
+# 模板图片路径
+img_template: "patient_image/expect_image/buy_internet_medical_treatment.jpg"
